@@ -1,4 +1,4 @@
-('D:\\Maker\\Serial Plotter\\build\\serial_plotter\\PYZ-00.pyz',
+('D:\\Maker\\Serial Plotter\\serial-plotter\\build\\serial_plotter\\PYZ-00.pyz',
  [('IPython',
    'C:\\Users\\dfer2\\AppData\\Roaming\\Python\\Python311\\site-packages\\IPython\\__init__.py',
    'PYMODULE'),
